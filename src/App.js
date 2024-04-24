@@ -8,13 +8,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          add text on develop branch and append on function 1
-          add text on function 1 branch
+          add text on develop branch and append function 2
+          add text function 2
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
           rel="noopener noreferrer"
         >
           Learn React and edit ver 2 on function 1
