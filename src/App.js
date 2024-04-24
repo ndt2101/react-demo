@@ -15,7 +15,7 @@ function App() {
           className="App-link"
           rel="noopener noreferrer"
         >
-          Learn React and edit ver 2 on function 1
+          Learn React and edit ver 2 on function 1 and newest update on function 2
         </a>
       </header>
     </div>
