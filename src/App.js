@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          add text on develop branch
+          add text on develop branch and append on function 1
+          add text on function 1 branch
         </p>
         <a
           className="App-link"
